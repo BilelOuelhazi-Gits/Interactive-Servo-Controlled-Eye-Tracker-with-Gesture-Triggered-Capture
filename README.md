@@ -14,3 +14,5 @@ Multithreaded Python script for efficient hardware interaction and image saving.
 Arduino firmware handles servo control, eye animations, blinking, wandering behavior, and reacts to serial commands.
 
 This integration showcases interactive robotics and computer vision working together for a responsive, playful user experience.
+
+![462456270_528317640134059_6624140881865362267_n](https://github.com/user-attachments/assets/313357c5-5668-42bc-86d0-32be255aa0b2)
